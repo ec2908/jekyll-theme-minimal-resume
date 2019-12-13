@@ -61,7 +61,7 @@ email: mauriurraco@gmail.com
 - Particle Customization
   - Edit the json data in particle function in `app.js`
   - Refer to `Particle.js` for help
-  
+
 # Content
 
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:

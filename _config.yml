@@ -6,7 +6,7 @@ url: "localhost:4000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Eric
-user_description: \'m a data analytics student at University of Technology, Sydney. I am very interested in  <b>Data Analytics</b> . Visit my blog here <a href="http://ericc.me" target="_blank">http://ericc.me</a>
+user_description: I'm a data analytics student at University of Technology, Sydney. I am very interested in  <b>Data Analytics</b> . Visit my blog here <a href="http://ericc.me" target="_blank">http://ericc.me</a>
 user_title: Data Analytics Student
 email: eric.chan
 # twitter_username: lorem_ipsum
